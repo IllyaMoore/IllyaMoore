@@ -1,8 +1,9 @@
-<img src="./imgs/header.png" alt="Header">
-
 # About Me
 
-## Who am I?  
+<img src="./imgs/header.png" alt="Header">
+
+## Who am I? 🤔
+
 I’m someone who loves building AI systems and tackling tricky problems with smart solutions.  
 When I’m not deep in code, you’ll find me immersed in environmental puzzle platformers or metroidvanias —  
 anything that rewards curiosity and clever thinking.
@@ -28,4 +29,10 @@ anything that rewards curiosity and clever thinking.
   <img src="https://skillicons.dev/icons?i=git,github,linux,docker,neovim&perline=7" />
 </p>
 
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=IllyaMoore&theme=dark&hide_border=true)
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IllyaMoore&theme=react-dark)
+
+</div>
