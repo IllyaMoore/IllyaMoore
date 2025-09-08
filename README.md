@@ -1,3 +1,5 @@
+<img src="./imgs/header.png" alt="Header">
+
 # About Me
 
 ## Who am I?  
@@ -6,14 +8,11 @@ When I’m not deep in code, you’ll find me immersed in environmental puzzle p
 anything that rewards curiosity and clever thinking.
 
 ---
-
-## What do I do?  
-I work with **computer vision**, **generative models**, and **agent-based systems**.  
-I like building things from the ground up — not just to make them work, but to really understand how and why they do.
-
-Currently, I’m diving deeper into:
-- Vision models  
-- AI agents  
+- 👋 Hi, I’m @IllyaMoore
+- 👀 I’m interested in AI, ML, CV and Data Science
+- 🌱 I’m diving deeper into: Vision models, AI agents 
+- 💞️ I’m looking to collaborate on (( anything ))
+- Portofolio: https://illyamoore.github.io/ilyamoor.github.io/
 
 ---
 
