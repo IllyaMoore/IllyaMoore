@@ -5,7 +5,7 @@
 ## Who am I? 🤔
 
 I’m someone who loves building AI systems and tackling tricky problems with smart solutions.  
-When I’m not deep in code, you’ll find me immersed in environmental puzzle platformers or metroidvanias —  
+When I’m not working on some staff, you’ll find me immersed in environmental puzzle platformers or metroidvanias —  
 anything that rewards curiosity and clever thinking.
 
 ---
