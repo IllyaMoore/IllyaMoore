@@ -2,16 +2,12 @@
 
 <img src="./imgs/header.png" alt="Header">
 
-## Who am I? 🤔
-
-I’m someone who loves building AI systems and tackling tricky problems with smart solutions.  
-When I’m not working on some staff, you’ll find me immersed in environmental puzzle platformers or metroidvanias.
-
 ---
 - 👋 Hi, I’m @IllyaMoore
 - 👀 I’m interested in AI, ML, CV and Data Science
 - 🌱 I’m diving deeper into: Vision models, AI agents 
 - 💞️ I’m looking to collaborate on (( anything ))
+  
 - Portofolio: https://illyamoore.github.io/ilyamoor.github.io/
 
 ---
