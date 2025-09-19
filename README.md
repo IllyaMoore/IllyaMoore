@@ -2,7 +2,6 @@
 
 # About Me
 
----
 - 👋 Hi, I’m @IllyaMoore
 - 👀 I’m interested in AI, ML, CV and Data Science
 - 🌱 I’m diving deeper into: Vision models, AI agents 
