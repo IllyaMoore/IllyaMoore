@@ -1,6 +1,6 @@
-# About Me
-
 <img src="./imgs/header.png" alt="Header">
+
+# About Me
 
 ---
 - 👋 Hi, I’m @IllyaMoore
