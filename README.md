@@ -9,7 +9,6 @@
   
 - Portofolio: https://illyamoore.github.io/ilyamoor.github.io/
 
----
 
 ## Current Focus
 
