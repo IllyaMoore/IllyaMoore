@@ -2,10 +2,10 @@
 
 # About Me
 
-- 👋 Hi, I’m @IllyaMoore
-- 👀 I’m interested in AI, ML, CV and Data Science
-- 🌱 I’m diving deeper into: Vision models, AI agents 
-- 💞️ I’m looking to collaborate on (( anything ))
+- Hi, I’m @IllyaMoore
+- I’m interested in AI, ML, CV and Data Science
+- I’m diving deeper into: Vision models, AI agents 
+- I’m looking to collaborate on (( anything ))
   
 - Portofolio: https://illyamoore.github.io/ilyamoor.github.io/
 
