@@ -1,13 +1,14 @@
 <img src="./imgs/header.png" alt="Header">
 
-# About Me
+# Moore
 
-- Hi, I’m @IllyaMoore
-- I’m interested in AI, ML, CV and Data Science
-- I’m diving deeper into: Vision models, AI agents 
-- I’m looking to collaborate on (( anything ))
+Just a guy interested in AI and Data Science, also in making my developer workflow more awesome, building projects, digging into them, and coming out with additional knowledge.
+
+- interested in AI, ML, CV and Data Science
+- diving deeper into: Vision models, AI agents 
+- looking to collaborate on (( anything ))
   
-- Portofolio: https://illyamoore.github.io/ilyamoor.github.io/
+- website: https://illyamoore.github.io/ilyamoor.github.io/
 
 
 ## Current Focus
