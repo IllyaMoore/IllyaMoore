@@ -12,17 +12,19 @@ Wandering through datasets and neural realms — searching for the next spark of
 ## Current Focus
 
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,rust&perline=7" /><br><br>
-
-  <!-- AI / Data -->
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow&perline=7" /><br><br>
-
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker&perline=7" /><br><br>
+<p style="text-align:center;">
+  <img src="https://skillicons.dev/icons?i=python,rust&perline=7" />
 </p>
-<p align="center">
+
+<p style="text-align:center;">
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow&perline=7" />
+</p>
+
+<p style="text-align:center;">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker&perline=7" />
+</p>
+
+<p style="text-align:center;">
   <i>And every wizard needs a powerful stick, right?</i><br>
   <img src="https://skillicons.dev/icons?i=neovim&perline=7" />
 </p>
