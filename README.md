@@ -21,7 +21,8 @@ Wandering through datasets and neural realms — searching for the next spark of
 
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,linux,docker&perline=7" /><br><br>
-
+</p>
+<p align="center">
   <i>And every wizard needs a powerful stick, right?</i><br>
   <img src="https://skillicons.dev/icons?i=neovim&perline=7" />
 </p>
