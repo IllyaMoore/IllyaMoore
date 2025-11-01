@@ -1,5 +1,3 @@
-<img src="./imgs/header.png" alt="Header">
-
 # 🧙‍♂️ Homeless Wizard
 
 Wandering through datasets and neural realms — searching for the next spark of insult... oh wait, *insight*.
