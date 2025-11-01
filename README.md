@@ -1,6 +1,6 @@
 <img src="./imgs/header.png" alt="Header">
 
-# Moore
+# Homeless Wizard
 
 Just a guy interested in AI and Data Science, also in making my developer workflow more awesome, building projects, digging into them, and coming out with additional knowledge.
 
