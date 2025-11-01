@@ -1,12 +1,12 @@
 <img src="./imgs/header.png" alt="Header">
 
-# Homeless Wizard
+# 🧙‍♂️ Homeless Wizard
 
-Just a guy interested in AI and Data Science, also in making my developer workflow more awesome, building projects, digging into them, and coming out with additional knowledge.
+Wandering through datasets and neural realms — searching for the next spark of insult... oh wait, *insight*.
 
-- interested in AI, ML, CV and Data Science
-- diving deeper into: Vision models, AI agents 
-- looking to collaborate on (( anything ))
+- interested in AI, ML, CV
+- RN diving deeper into: Vision models, AI agents 
+- looking to collaborate on (( anything )) "bring the wizard home"
   
 - website: https://illyamoore.github.io/ilyamoor.github.io/
 
