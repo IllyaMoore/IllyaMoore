@@ -24,14 +24,7 @@ Wandering through datasets and neural realms — searching for the next spark of
   <img src="https://skillicons.dev/icons?i=git,github,linux,docker&perline=7" />
 </p>
 
-<p style="text-align:center;">
-  <i>And every wizard needs a powerful stick, right?</i><br>
-  <img src="https://skillicons.dev/icons?i=neovim&perline=7" />
-</p>
-
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=IllyaMoore&theme=dark&hide_border=true)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IllyaMoore&theme=react-dark)
 
