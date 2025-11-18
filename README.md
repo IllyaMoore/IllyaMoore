@@ -2,7 +2,7 @@
 
 Wandering through datasets and neural realms — searching for the next spark of insult... oh wait, *insight*.
 
-- interested in AI, ML, CV
+- AI, ML, CV
 - RN diving deeper into: Vision models, AI agents 
 - looking to collaborate on (( anything )) "A wizard looking for a place to stay"
   
@@ -10,7 +10,6 @@ Wandering through datasets and neural realms — searching for the next spark of
 
 
 ## Current Focus
-
 
 <p style="text-align:center;">
   <img src="https://skillicons.dev/icons?i=python,rust&perline=7" />
@@ -23,9 +22,3 @@ Wandering through datasets and neural realms — searching for the next spark of
 <p style="text-align:center;">
   <img src="https://skillicons.dev/icons?i=git,github,linux,docker&perline=7" />
 </p>
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IllyaMoore&theme=react-dark)
-
-</div>
